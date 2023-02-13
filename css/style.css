@@ -1,0 +1,400 @@
+* {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+/* Navbar */
+.navbar {
+  opacity: 50%;
+}
+
+.navbar .navbar-brand {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: 0.1em;
+  color: white;
+}
+
+.navbar .navbar-nav {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.1em;
+}
+
+#navbarextra {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 16px;
+  letter-spacing: 0.1em;
+}
+
+.navbar .container .navbar-nav a:hover {
+  color: #ffb548;
+}
+/* Navbar End */
+
+/* Page 1 Start */
+.page1 {
+  background-image: url("/assets/main-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 15%;
+  padding-bottom: 15%;
+  color: #ffffff;
+}
+
+.page1 h1 {
+  font-size: 72px;
+  margin-bottom: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  line-height: 83px;
+  letter-spacing: 3px;
+}
+
+.page1 p {
+  font-size: 16px;
+  margin-bottom: 50px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+}
+
+.page1 .btn {
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  line-height: 22px;
+}
+
+.page1 h2 {
+  text-transform: uppercase;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  margin-top: 230px;
+  margin-bottom: 0;
+  font-size: 12px;
+  line-height: 22px;
+  color: #ffffff;
+}
+
+/* Page 1 End */
+
+/* Page 2 Start */
+.page2 {
+  padding-top: 20%;
+  padding-bottom: 20%;
+  background-image: url("/assets/the-games-bg.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #ffffff;
+}
+
+.page2 .container .row .col h1 {
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 2px;
+}
+
+.page2 .container .row .col p {
+  font-size: 56px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  line-height: 64px;
+  letter-spacing: 3px;
+}
+
+/* Page 2 End */
+
+/* Page 3 Start*/
+.page3 {
+  padding-top: 20%;
+  padding-bottom: 20%;
+  background-image: url("/assets/features.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #ffffff;
+}
+
+.page3 .col {
+  margin-left: 150px;
+}
+
+.page3 .container h1 {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 2px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.page3 .container h2 {
+  font-size: 56px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  line-height: 64px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 50px;
+}
+
+.page3 .container h3 {
+  color: #ffb548;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 2px;
+}
+
+.page3 .container p {
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  line-height: 22px;
+  margin-bottom: 30px;
+}
+
+.page3 .container h4 {
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 2px;
+  color: #ffb548;
+  margin-bottom: 30px;
+}
+
+.page3 .container h5 {
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 2px;
+  color: #ffb548;
+}
+/* Page 3 End */
+
+/* Page 4 Start */
+.page4 {
+  padding-top: 20%;
+  padding-bottom: 20%;
+  background-image: url("/assets/requirements.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #ffffff;
+}
+
+.page4 .container .row .col h1 {
+  font-size: 14px;
+  margin-top: -325px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  letter-spacing: 2px;
+  font-weight: 400;
+}
+
+.page4 .container .row .col h2 {
+  font-size: 56px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  line-height: 64px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.page4 .container .row .col .table td {
+  color: #ffb548;
+  font-family: 18px;
+  font-weight: 400;
+  line-height: 22px;
+}
+/* Page 4 End */
+
+/* Page 5 Start */
+.page5 {
+  padding-top: 20%;
+  padding-bottom: 20%;
+  background-image: url("/assets/top-score-bg.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #ffffff;
+}
+
+.page5 .row .col h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 64px;
+  letter-spacing: 3px;
+}
+
+.page5 .row .col p {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.page5 .row .col a {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  padding: 1rem;
+}
+
+/* Card 1 */
+
+.page5 .col .card {
+  margin-left: 150px;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.page5 .col .card .nama {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 2px;
+  color: #ffb548;
+  text-transform: capitalize;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.page5 .col .card .profesi {
+  opacity: 50%;
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.page5 .col .card img {
+  border-radius: 50%;
+}
+
+.page5 .col .card .kata-kata {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+  line-height: 25px;
+}
+
+.page5 .col .card .tanggal-kata {
+  font-size: 14px;
+  opacity: 50%;
+  font-family: "Open Sans", sans-serif;
+  line-height: 19px;
+  font-weight: 400;
+}
+/* Card 1 */
+
+/* Card 2 */
+#card2 {
+  margin-left: 70px;
+}
+
+/* Card 2 */
+/* Page 5 End */
+
+/* Page 6 */
+.page6 {
+  background-image: url("/assets/newsletter.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
+
+.page6 .row .col img {
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-bottom: 30px;
+}
+
+.page6 .row .col h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 2px;
+}
+
+.page6 .row .col h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 65px;
+  line-height: 75px;
+  letter-spacing: 3px;
+}
+
+.page6 .row .col p {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.page6 label,
+input {
+  display: block;
+}
+
+.page6 button {
+  display: flex;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  line-height: 22px;
+  padding: 0.5rem;
+}
+
+.page6 .pre-footer .container {
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  line-height: 16px;
+}
+
+.page6 .pre-footer .container a {
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  font-size: 12px;
+  padding: 1.4rem;
+}
+
+.page6 .row .footer {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.page6 .row .footer .satu {
+  font-size: 14px;
+  font-weight: 400;
+  opacity: 50%;
+  font-family: "Open Sans", sans-serif;
+  line-height: 19px;
+}
+
+.page6 .row .footer .dua {
+  font-size: 12px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  line-height: 16px;
+}
+/* Page 6 End */
