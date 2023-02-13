@@ -72,7 +72,8 @@
   line-height: 22px;
 }
 
-.page1 h2 {
+.page1 .container h2 {
+  text-decoration: none;
   text-transform: uppercase;
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
